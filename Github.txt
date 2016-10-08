@@ -1,7 +1,7 @@
 
 ## go to local directory where you want to sync your repository
 ## voeg de origin URL
-git remote add origin https://github.com/aciertoweb/PS.github
+git remote add origin https://github.com/aciertoweb/PS.git
 
 git remote remove origin
 
