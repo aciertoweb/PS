@@ -32,4 +32,6 @@ while ($status -ne "COMPLETED" -and $x -lt $maxx)
     $x++
 }
 
+git remote add origin https://github.com/aciertoweb/Powershell.git
+git push -u origin master
 
