@@ -1,3 +1,5 @@
+
+## this doesnt work on Mac OS....
 get-childitem Env:
 
 echo $env:user
